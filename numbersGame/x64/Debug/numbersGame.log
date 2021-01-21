@@ -1,0 +1,15 @@
+﻿  compositeNumber.cpp
+  customLibrary.cpp
+  givenNumber.cpp
+  main.cpp
+D:\Programming\C++ Advanced\NumbersGameCW\NumbersGame\numbersGame\numberList.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Programming\C++ Advanced\NumbersGameCW\NumbersGame\numbersGame\main.cpp(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  number.cpp
+  numberList.cpp
+D:\Programming\C++ Advanced\NumbersGameCW\NumbersGame\numbersGame\numberList.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  targetNumber.cpp
+D:\Programming\C++ Advanced\NumbersGameCW\NumbersGame\numbersGame\numberList.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Programming\C++ Advanced\NumbersGameCW\NumbersGame\numbersGame\targetNumber.cpp(113,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+D:\Programming\C++ Advanced\NumbersGameCW\NumbersGame\numbersGame\numberList.cpp(201): warning C4715: 'numberList::getValue': not all control paths return a value
+  numbersGame.vcxproj -> D:\Programming\C++ Advanced\NumbersGameCW\NumbersGame\x64\Debug\numbersGame.exe
